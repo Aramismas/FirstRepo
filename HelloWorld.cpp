@@ -1,1 +1,1 @@
-Hello
+cout << "Hello World";
